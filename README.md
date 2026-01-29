@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Front-End Developer from Anápolis-GO<br>I'm 20
 
 
